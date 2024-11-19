@@ -9,8 +9,8 @@ display: flex;
 justify-content: certer;
 }
 
-div { 
-margin-right: 20px;  
+.chamada-texto { 
+margin-right: 5%px;  
 }
 
 header{
